@@ -5,7 +5,7 @@
 <h1 align="center">Hola, soy Villarreal Marcos👋</h1>
 
 <p align="center">
-  Soy estudiante de Redes y software, Apasionado por la ciberseguridad programación y estructura de datos 
+  Estudiante de Redes y software, Apasionado por la ciberseguridad programación y estructura de datos 
 </p>
 
 <p align="center">
