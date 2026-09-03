@@ -6,7 +6,7 @@
 
 ---
 
-## 🏯こんにちは (Hola)
+## ⛩️⛩️こんにちは (Hola)⛩️⛩️
 
 Soy **Marcos Villarreal**, desarrollador en formación apasionado por la programación, ciberseguridad y estructura de datos.
 
@@ -16,7 +16,7 @@ Soy **Marcos Villarreal**, desarrollador en formación apasionado por la program
 
 ---
 
-## 🏯 Sobre mí
+## 🏮 Sobre mí
 
 ```
 🌙 Late night coder
@@ -30,7 +30,7 @@ Creo que la programación es como el arte japonés: requiere paciencia, precisi�
 
 ---
 
-## 🏯 Tecnologías
+## 🎌🎌 Tecnologías
 
 **Lenguajes**
 ```
@@ -58,7 +58,7 @@ Docker • Git
 
 ---
 
-## 📞 Contacto
+## 🌙  Contacto
 
 <div align="center">
 
