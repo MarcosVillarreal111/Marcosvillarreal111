@@ -1,4 +1,4 @@
-# ⛩️ Marcos Villarreal
+#  Marcos Villarreal
 
 Desarrollador en formación con pasión por la programación, la ciberseguridad y la arquitectura de software. Actualmente curso el Técnico en Software (TC de Software) en **UTU ISBO Brazo Oriental**, en Montevideo, Uruguay.
 
